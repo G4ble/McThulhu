@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/McThulhu/static/css/main.a617e044.chunk.css",
-    "main.js": "/McThulhu/static/js/main.5e706dc8.chunk.js",
-    "main.js.map": "/McThulhu/static/js/main.5e706dc8.chunk.js.map",
-    "runtime-main.js": "/McThulhu/static/js/runtime-main.2fe78a40.js",
-    "runtime-main.js.map": "/McThulhu/static/js/runtime-main.2fe78a40.js.map",
-    "static/js/2.58beec6d.chunk.js": "/McThulhu/static/js/2.58beec6d.chunk.js",
-    "static/js/2.58beec6d.chunk.js.map": "/McThulhu/static/js/2.58beec6d.chunk.js.map",
-    "static/js/3.c8a3edfe.chunk.js": "/McThulhu/static/js/3.c8a3edfe.chunk.js",
-    "static/js/3.c8a3edfe.chunk.js.map": "/McThulhu/static/js/3.c8a3edfe.chunk.js.map",
+    "main.js": "/McThulhu/static/js/main.0267677f.chunk.js",
+    "main.js.map": "/McThulhu/static/js/main.0267677f.chunk.js.map",
+    "runtime-main.js": "/McThulhu/static/js/runtime-main.f0048f59.js",
+    "runtime-main.js.map": "/McThulhu/static/js/runtime-main.f0048f59.js.map",
+    "static/js/2.fb060acf.chunk.js": "/McThulhu/static/js/2.fb060acf.chunk.js",
+    "static/js/2.fb060acf.chunk.js.map": "/McThulhu/static/js/2.fb060acf.chunk.js.map",
+    "static/js/3.2900f6cb.chunk.js": "/McThulhu/static/js/3.2900f6cb.chunk.js",
+    "static/js/3.2900f6cb.chunk.js.map": "/McThulhu/static/js/3.2900f6cb.chunk.js.map",
     "index.html": "/McThulhu/index.html",
     "static/css/main.a617e044.chunk.css.map": "/McThulhu/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.58beec6d.chunk.js.LICENSE.txt": "/McThulhu/static/js/2.58beec6d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/McThulhu/static/media/logo.6ce24c58.svg"
+    "static/js/2.fb060acf.chunk.js.LICENSE.txt": "/McThulhu/static/js/2.fb060acf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2fe78a40.js",
-    "static/js/2.58beec6d.chunk.js",
+    "static/js/runtime-main.f0048f59.js",
+    "static/js/2.fb060acf.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.5e706dc8.chunk.js"
+    "static/js/main.0267677f.chunk.js"
   ]
 }
